@@ -3,7 +3,7 @@ name: My-proj
 on: 
   push:
     branches: 
-      - master
+      - main 
 
 jobs: 
   my_testing:
